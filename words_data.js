@@ -105,4 +105,4 @@ var words_array = [
     {"spanish_word":"Septiembre", "english_word":"September","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"¿Recuerdas haber bailado en septiembre?","english_sentence":"Do you remember dancing in September?"},
     {"spanish_word":"Octubre", "english_word":"October","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Halloween es en octubre","english_sentence":"Halloween is in October"},
     {"spanish_word":"Noviembre", "english_word":"November","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Lluvia fría de noviembre","english_sentence":"Cold November rain"},
-    {"spanish_word":"Diciembre", "english_word":"December","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Rara vez nieva en diciembre","english_sentence":"It seldom snows in December"},];
+    {"spanish_word":"Diciembre", "english_word":"December","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Rara vez nieva en diciembre.","english_sentence":"It seldom snows in December."},];
