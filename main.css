@@ -1,0 +1,41 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #000044;
+    color: #ffffff;
+}
+#card, #answer_card {
+    width:50%;
+    margin-left:25%;
+    padding:25px 25px 50px 25px;
+}
+#answer_card {
+    background-color: #000088;
+    text-align:center;
+    visibility:collapse;
+}
+#card {
+    background-color: #440088;
+    margin-top:10%;
+}
+#type {
+    font-size: 20px;
+    text-align: right;
+    color:aquamarine;
+}
+#word {
+    font-size: 35px;
+    text-align: center;
+}
+#sentence {
+    font-size: 20px;
+    text-align: center;
+    color:#cccccc;
+    font-style: italic;
+}
+.buttonP {
+    text-align: center;
+    font-size: 30px;
+    margin-top:5px;
+    margin-bottom:5px;
+    padding:5px;
+}
