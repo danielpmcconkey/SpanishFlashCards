@@ -1,4 +1,3 @@
-
 let current_card = 0;
 let prior_card = 0;
 let num_cards = words_array.length;
