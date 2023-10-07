@@ -67,10 +67,10 @@ var words_array = [
     {"spanish_word":"buenas tardes", "english_word":"good afternoon","spanish_type":"Frase","english_type":"Phrase","spanish_sentence":"Buenas tardes, ¿tuviste un buen almuerzo?","english_sentence":"Good afternoon, did you have a good lunch?"},
     {"spanish_word":"buenas noches", "english_word":"good evening / good night","spanish_type":"Frase","english_type":"Phrase","spanish_sentence":"Buenas noches, es hora de ir a la cama","english_sentence":"Good night, it's time for bed"},
     {"spanish_word":"(yo) tengo … años", "english_word":"i am … years old.","spanish_type":"Frase","english_type":"Phrase","spanish_sentence":"Tengo 48 años","english_sentence":"I am 48 years old"},
+    {"spanish_word":"viejo/a", "english_word":"old","spanish_type":"Adjetivo","english_type":"Adjective","spanish_sentence":"Es la iglesia más vieja de España","english_sentence":"It is the oldest church in Spain"},
+    {"spanish_word":"joven", "english_word":"young","spanish_type":"Adjetivo","english_type":"Adjective","spanish_sentence":"El árbol es muy joven","english_sentence":"The tree is very young"},
     {"spanish_word":"old", "english_word":"viejo/a","spanish_type":"Adjetivo","english_type":"Adjective","spanish_sentence":"Es la iglesia más vieja de España","english_sentence":"It is the oldest church in Spain"},
     {"spanish_word":"young", "english_word":"joven","spanish_type":"Adjetivo","english_type":"Adjective","spanish_sentence":"El árbol es muy joven","english_sentence":"The tree is very young"},
-    {"spanish_word":"middle-aged", "english_word":"de mediana edad","spanish_type":"Frase","english_type":"Phrase","spanish_sentence":"Cuándo comienza realmente la mediana edad","english_sentence":"When Midlife Really Begins"},
-    {"spanish_word":"youthful", "english_word":"juvenil","spanish_type":"Adjetivo","english_type":"Adjective","spanish_sentence":"Tiene una apariencia juvenil","english_sentence":"She has a youthful appearance"},
     {"spanish_word":"nuevo/a", "english_word":"new","spanish_type":"Adjetivo","english_type":"Adjective","spanish_sentence":"Este es mi nuevo reloj","english_sentence":"This is my new watch"},
     {"spanish_word":"¡feliz cumpleaños!", "english_word":"happy birthday!","spanish_type":"Frase","english_type":"Phrase","spanish_sentence":"Feliz cumpleaños, señor","english_sentence":"Happy birthday, sir"},
     {"spanish_word":"felicitaciones", "english_word":"congratulations","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Felicitaciones por tu nuevo bebé","english_sentence":"Congratulations on your new baby"},
@@ -105,4 +105,5 @@ var words_array = [
     {"spanish_word":"Septiembre", "english_word":"September","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"¿Recuerdas haber bailado en septiembre?","english_sentence":"Do you remember dancing in September?"},
     {"spanish_word":"Octubre", "english_word":"October","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Halloween es en octubre","english_sentence":"Halloween is in October"},
     {"spanish_word":"Noviembre", "english_word":"November","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Lluvia fría de noviembre","english_sentence":"Cold November rain"},
-    {"spanish_word":"Diciembre", "english_word":"December","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Rara vez nieva en diciembre.","english_sentence":"It seldom snows in December."},];
+    {"spanish_word":"Diciembre", "english_word":"December","spanish_type":"Sustantivo","english_type":"Noun","spanish_sentence":"Rara vez nieva en diciembre","english_sentence":"It seldom snows in December"},
+];

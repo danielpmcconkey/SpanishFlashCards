@@ -6,7 +6,7 @@ body {
 #card, #answer_card {
     width:50%;
     margin-left:25%;
-    padding:25px 25px 50px 25px;
+    padding:15px 25px 50px 25px;
 }
 #answer_card {
     background-color: #000088;
@@ -15,7 +15,7 @@ body {
 }
 #card {
     background-color: #440088;
-    margin-top:10%;
+    margin-top:50px;
 }
 #type {
     font-size: 20px;
@@ -32,13 +32,36 @@ body {
     color:#cccccc;
     font-style: italic;
 }
-.buttonP {
+.button_frame {
     text-align: center;
     font-size: 30px;
     margin-top:5px;
     margin-bottom:5px;
     padding:5px;
+    clear:both;
+}
+.right_button {
+    background-color: #00ffcc;
+    color:#008800;
+    margin-left:50px;
+}
+.wrong_button {
+    background-color: #ffcccc;
+    color:#880000;
+}
+#back_button {
+    margin-left:50px;
+}
+#current_button {
+    margin-left: 50px;
+    visibility: hidden;
 }
 h1 {
     font-size: 36px;
+    float:left;
+}
+h2 {
+    float:right;
+    font-size: 24px;
+    color:aquamarine;
 }
